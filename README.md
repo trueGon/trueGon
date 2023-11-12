@@ -28,10 +28,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://i.pinimg.com/originals/c2/ec/03/c2ec036808851a740fa1bf6e5644160c.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/trueGon/trueGon/output/snake.svg" alt="Snake animation" />
 
 ###
